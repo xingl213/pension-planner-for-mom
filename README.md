@@ -3,7 +3,7 @@
 This is a direct translation of `user_manual.txt` which was originally written in Chinese.
 
 # General
-Run `momj_pension_planning` and input your answer according to the prompt
+Run `mom_pension_planning.py` and input your answer according to the prompt
 
 # Calculator
 After you tell the program the key parameters **x** and **n**, it will present a table listing these information:
